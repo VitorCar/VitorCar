@@ -1,7 +1,7 @@
 # 👨🏾‍💻 Vitor Carvalho
 **`Desenvolvedor Backend & Analista de Dados`**
 
- chamo vitor Carvalho Sant`Ana, tenho 24 anos e sou de Juiz de Fora MG, Estou cursando Analise e Desenvolvimento de Sistema na Unopar. sou apaixonado e muito curioso quando o assunto e tecnologia.
+Me chamo vitor Carvalho Sant`Ana, tenho 24 anos e sou de Juiz de Fora MG, Estou cursando Analise e Desenvolvimento de Sistema na Unopar. sou apaixonado e muito curioso quando o assunto e tecnologia.
 
 ---
 ### 🖥️ Linguagens e Tecnologias 
@@ -20,6 +20,15 @@
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 <br/>
 <br/>
