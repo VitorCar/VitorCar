@@ -1,63 +1,39 @@
-# 👨🏾‍💻 Vitor Carvalho
+<h1 align="left">
+  👨🏻‍💻&nbsp; Vitor Carvalho
+</h1>
 
-### Backend Python Developer · Django · REST APIs · AI
+![Backend Python Engineer](https://img.shields.io/badge/-Backend%20Python%20Engineer-1f6feb?style=flat-square)
 
-Desenvolvedor Backend focado em **Python, Django e Django REST Framework**, construindo APIs e aplicações com foco em boas práticas, integração de dados e arquitetura de software.
+Me chamo Vitor Carvalho Sant'Ana, sou natural de Minas Gerais e estou cursando Análise e Desenvolvimento de Sistemas na **UNOPAR**. Sou desenvolvedor backend focado em **Python e Django**, construindo APIs REST, arquiteturas containerizadas e, mais recentemente, soluções com **Inteligência Artificial** — concluí a formação **IA Master**, aprofundando LLMs, LangChain e RAG. Compartilho meus projetos pelo **[GitHub](https://github.com/VitorCar)** e conecto pelo **[LinkedIn](https://linkedin.com/in/vitor-sant-ana-21811a372)**.
 
-Também exploro **Inteligência Artificial aplicada ao desenvolvimento**, utilizando LLMs, LangChain, RAG, embeddings e APIs de IA.
-
----
-
-### 🛠️ Tech Stack
-
-**Backend**
-
-`Python` · `Django` · `Django REST Framework` · `FastAPI`
-
-**Databases**
-
-`PostgreSQL` · `MySQL` · `Redis`
-
-**AI**
-
-`LangChain` · `RAG` · `OpenAI` · `Embeddings` · `ChromaDB`
-
-**DevOps & Tools**
-
-`Docker` · `Docker Compose` · `Git` · `GitHub Actions` · `Postman`
-
-**Practices**
-
-`REST APIs` · `JWT` · `Clean Code` · `PEP 8` · `OpenAPI`
-
----
-
-### 📚 Currently Learning
-
-`Backend Architecture` · `Automated Testing` · `CI/CD` · `Async Processing` · `Redis & Caching` · `AI Agents` · `RAG`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorCar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorCar&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/VitorCar?label=SEGUIDORES&style=for-the-badge&color=1f6feb&labelColor=161b22" alt="Seguidores"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VitorCar&label=REPOSIT%C3%93RIOS&query=%24.public_repos&style=for-the-badge&color=2ea043&labelColor=161b22" alt="Repositórios"/>
+  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-Brasil-e3b341?style=for-the-badge&labelColor=161b22" alt="Localização"/>
+  <img src="https://img.shields.io/badge/DISPON%C3%8DVEL-Estágio%20%7C%20Trainee%20%7C%20Júnior-8957e5?style=for-the-badge&labelColor=161b22" alt="Disponibilidade"/>
 </p>
 
 ---
 
-### 📫 Connect
+### 🖥️ Linguagens e Tecnologias
 
-<p>
-  <a href="https://www.linkedin.com/in/vitor-sant-ana-21811a372">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VitorCar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,redis,docker,git,github,html,css&theme=dark" alt="Stack" />
 </p>
 
-<p align="center">
-  <sub>Building Backends · Exploring AI · Evolving as an Engineer</sub>
+<p align="left">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/-ChromaDB-FF6F00?style=flat-square" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/-RAG-4B0082?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorCar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Vitor Carvalho"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCar&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Tecnologias mais usadas"/>
 </p>
