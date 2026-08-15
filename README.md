@@ -4,7 +4,7 @@
 
 ![Backend Python Engineer](https://img.shields.io/badge/-Backend%20Python%20Engineer-1f6feb?style=flat-square)
 
-Me chamo Vitor Carvalho Sant'Ana, sou natural de Minas Gerais e estou cursando Análise e Desenvolvimento de Sistemas na **UNOPAR**. Sou desenvolvedor backend focado em **Python e Django**, construindo APIs REST, arquiteturas containerizadas e, mais recentemente, soluções com **Inteligência Artificial** — concluí a formação **IA Master**, aprofundando LLMs, LangChain e RAG. Compartilho meus projetos pelo **[GitHub](https://github.com/VitorCar)** e conecto pelo **[LinkedIn](https://linkedin.com/in/vitor-sant-ana-21811a372)**.
+Me chamo Vitor Carvalho Sant'Ana, sou natural de Minas Gerais. Sou desenvolvedor backend focado em **Python e Django**, construindo APIs REST, arquiteturas containerizadas e, mais recentemente, soluções com **Inteligência Artificial** — concluí a formação **IA Master**, aprofundando LLMs, LangChain e RAG. Compartilho meus projetos pelo **[GitHub](https://github.com/VitorCar)** e conecto pelo **[LinkedIn](https://linkedin.com/in/vitor-sant-ana-21811a372)**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VitorCar&label=REPOSIT%C3%93RIOS&query=%24.public_repos&style=for-the-badge&color=2ea043&labelColor=161b22" alt="Repositórios"/>
