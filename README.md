@@ -29,10 +29,3 @@ Me chamo Vitor Carvalho Sant'Ana, sou natural de Minas Gerais. Sou desenvolvedor
 </p>
 
 ---
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorCar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Vitor Carvalho"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCar&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Tecnologias mais usadas"/>
-</p>
